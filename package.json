@@ -1,0 +1,39 @@
+{
+  "name": "vite3toolkit",
+  "version": "1.0.0",
+  "description": "Initial setup of the project.  Created with JSON Server, React, Vite, Router 6, and Redux-Toolkit.",
+  "main": "index.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indigomx9/vite3toolkit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indigomx9/vite3toolkit/issues"
+  },
+  "homepage": "https://github.com/indigomx9/vite3toolkit#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.2",
+    "moment": "^2.29.3",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-hot-toast": "^2.2.0",
+    "react-redux": "^8.0.2",
+    "react-router-dom": "^6.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.3.2",
+    "vite": "^2.9.9"
+  }
+}
+
+
+
+
